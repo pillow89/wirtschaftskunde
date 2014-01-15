@@ -5,11 +5,11 @@
 * Textilkennzeichnung
 * Lebensmittelkennzeichnung
 
-z.B. Mindeshaltbarkeitsdatum, bei Tiefkühlwaren: "nach dem auftauen sofort verbrauchen"
+z.B. Mindeshaltbarkeitsdatum, bei Tiefkühlwaren: "nach dem Auftauen sofort verbrauchen"
 
 **Ausnahme:** Angabe des MHD ist nicht erforderlich bei:
 - frischem Obst
-- Gemüste
+- Gemüse
 - Kartoffeln
 - Getränke mit Alkoholgehalt > 10%
 - Röstkaffee, Tee
@@ -29,7 +29,7 @@ z.B. Mindeshaltbarkeitsdatum, bei Tiefkühlwaren: "nach dem auftauen sofort verb
 **Bedeutung:** 
 
 - Wertfunktion: Der hohe Preis eines Produktes soll mit der Marke gerechtfertigt werden
-- Garantiefunktion: Der Käufer hat beim Nachkauf ein Gewähr ein gleiches Produkt zu erhalten
+- Garantiefunktion: Der Käufer hat beim Nachkauf eine Gewähr ein gleiches Produkt zu erhalten
 
 #### Gütezeichen
 - öffentl. Garantieausweis für eine festgelegte Mindestqualität
