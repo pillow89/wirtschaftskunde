@@ -21,5 +21,3 @@
 * verderblichen Waren.
 * Nach Kundenwünschen gestaltete Waren.
 * bei Software die entsiegelt wurde
-
-![Alt text](http://www.envisia.de/images/056d6138.envisia.png)
