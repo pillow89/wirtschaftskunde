@@ -1,6 +1,6 @@
 ## Verbraucherdarlehnen
 
-#### Vertraspartner:
+#### Vertragspartner:
 Unternehmer und Verbraucher
 
 #### Ziel:
