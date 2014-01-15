@@ -4,16 +4,16 @@
 
 ### Gegenstand von Fernabsatzverträgen
 
-* bewegliche, köperliche Sachen
+* bewegliche, körperliche Sachen
 * Download
-* nicht köperliche Sachen (z.B. Strom, Gas..)
+* nicht körperliche Sachen (z.B. Strom, Gas..)
 
 ### ausgenommen sind folgende Dienstleistungen
 
 * Immobiliengeschäfte
-* Finanzgeschäfte (z.B Abschluss v. Sparverträgen)
+* Finanzgeschäfte (z.B. Abschluss v. Sparverträgen)
 * Lieferung von Lebensmitteln (Pizzadienst)
-* Fernuntericht
+* Fernunterricht
 
 **Besonderheit: 2-wöchiges, schriftliches Widerrufsrecht**
 
